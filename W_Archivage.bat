@@ -1,4 +1,4 @@
-:: Script By Jessy
+:: Script By Nawek
 :: 17-01-2020 
 :: Dépendance : 7zip (https://www.7-zip.org/download.html)
 @echo off 
