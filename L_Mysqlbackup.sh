@@ -1,4 +1,4 @@
-# Script By Jessy
+# Script By Nawek
 # 30-12-2019
 # source :https://www.kinamo.fr/fr/support/faq/mysql-backup-automatique-base-de-donnees
 # script a placer dans : /usr/sbin/local
